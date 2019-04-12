@@ -1,0 +1,4 @@
+node_modules
+tmp/*
+src/config/enviroments.js
+!tmp/.gitkeep
